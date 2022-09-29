@@ -1,0 +1,21 @@
+.one{
+    margin: 2px;
+    padding: 15px;
+    border:2px solid black;
+}
+
+#two{
+    font-size: 55px;
+    
+}
+#three{
+    color: aqua;
+    font-size: 30px;
+}
+
+#fr{
+    font-size: 30px;
+}
+span{
+    color: rgb(218, 28, 28);
+}
