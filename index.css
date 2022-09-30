@@ -1,5 +1,6 @@
 .one{
-    margin: 2px;
+    margin-left: 32px;
+    margin-bottom: 17px;
     padding: 15px;
     border:2px solid black;
 }
@@ -18,4 +19,8 @@
 }
 span{
     color: rgb(218, 28, 28);
+}
+form{
+    border: 4px solid black;
+    margin: 200px;
 }
